@@ -1,22 +1,4 @@
- 1. Go through http://learnpythonthehardway.org/ completely. Work on 
-        the all the exercises and do it rigourously. It's not easy or 
-        quick but it'w worth it. 
-
-     2. I will send you a list of questions here which you have to 
-        answer. You don't need to send me the replies but you can if you 
-        have doubts. Some important things. 
-             - DON'T GOOGLE FOR SOLUTIONS. Study python (the language), 
-               think hard and solve the problems yourself. I will give 
-               you specific links for each problem for your 
-               reference. Use only those and nothing else. 
-             - If you have doubts about the questions, please email me. 
-             - Don't skip these. This is how you evaluate 
-               yourself. Concentrate and work hard. You'll be able to 
-               solve them. 
-             - OUTPUT SHOULD BE EXACT. Don't stop when you get something 
-               approximately like what I've shown below. Get it exactly. 
-
-     3. Problems 
+ 3. Problems 
         a. Write a function that will print the times tables for a given 
            number from 1 to 10. 
            Sample output: 
@@ -98,12 +80,4 @@
            To do this, you have to use the algorith called Sieve of 
            Erathosthenes. You can look at the wikipedia entry for this 
            algorithm. Don't look for anything else. Don't use the modulo 
-           operator (%) in your program. 
-
-    Please email me if you have any questions.
-
-
-print"{} {} {}".format(i, i*5, k)
-
-def palindrome(string):
-    if string
+           operator (%) in your program.
