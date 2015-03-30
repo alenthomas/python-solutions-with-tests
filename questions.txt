@@ -1,0 +1,109 @@
+ 1. Go through http://learnpythonthehardway.org/ completely. Work on 
+        the all the exercises and do it rigourously. It's not easy or 
+        quick but it'w worth it. 
+
+     2. I will send you a list of questions here which you have to 
+        answer. You don't need to send me the replies but you can if you 
+        have doubts. Some important things. 
+             - DON'T GOOGLE FOR SOLUTIONS. Study python (the language), 
+               think hard and solve the problems yourself. I will give 
+               you specific links for each problem for your 
+               reference. Use only those and nothing else. 
+             - If you have doubts about the questions, please email me. 
+             - Don't skip these. This is how you evaluate 
+               yourself. Concentrate and work hard. You'll be able to 
+               solve them. 
+             - OUTPUT SHOULD BE EXACT. Don't stop when you get something 
+               approximately like what I've shown below. Get it exactly. 
+
+     3. Problems 
+        a. Write a function that will print the times tables for a given 
+           number from 1 to 10. 
+           Sample output: 
+           tables(4) should display 
+            1 x 4 =  4 
+            2 x 4 =  8 
+            3 x 4 = 12 
+            4 x 4 = 16 
+            5 x 4 = 20 
+            6 x 4 = 24 
+            7 x 4 = 28 
+            8 x 4 = 32 
+            9 x 4 = 36 
+           10 x 4 = 40 
+        
+        b. Write a function called fizzbizz that will print numbers from 
+           1 to 100. For multiples of 3, it should print "fizz", for 
+           multiples of 5, it should print "bizz" and for multiples of 
+           15, it should print "fizzbizz". 
+           Sample Output: 
+           fizzbizz() should display 
+           1 
+           2 
+           fizz 
+           4 
+           bizz 
+           fizz 
+           7 
+           8 
+           fizz 
+           bizz 
+           11 
+           fizz 
+           13 
+           14 
+           fizzbizz 
+           16 
+           17 
+           . 
+           . 
+           . 
+           . 
+        c. Write a python function to check whether a given string is a 
+           palindrome. A palindrome is a string that reads the same from 
+           left to right and from right to left. 
+           Sample Output: 
+           palindrome("malayalam") should return True 
+           palindrome("angel")     should return False 
+           palindrome("")          should return True 
+           palindrome("madam")     should return True 
+
+        d. Write a python function to check whether a given sentence 
+           contains all letters of the alphabet. 
+           Sample output: 
+           panagram("sphinx of black quartz, judge my vow") should return True 
+           panagram("red bulb, blue bulb")  should return False 
+
+        e. Write a program to print the number of times each letter 
+           occurs in a given string. 
+           Sample output: 
+           freq("she sells sea shells on the sea shore") should print 
+              a :: 2 
+               :: 7 
+             e :: 7 
+             h :: 4 
+             l :: 4 
+             o :: 2 
+             n :: 1 
+             s :: 8 
+             r :: 1 
+             t :: 1
+           This means that there are 2 a's, 8 s's etc. 
+
+        f. Write a function that will calculate the prime numbers 
+           between 2 and a given number. 
+           Sample output: 
+           primes(50) should return [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47] 
+            
+           To do this, you have to use the algorith called Sieve of 
+           Erathosthenes. You can look at the wikipedia entry for this 
+           algorithm. Don't look for anything else. Don't use the modulo 
+           operator (%) in your program. 
+
+    Please email me if you have any questions.
+
+
+print"{} {} {}".format(i, i*5, k)
+
+def palindrome(string):
+    if string
